@@ -1,6 +1,6 @@
 import forca
 import adivinhacao
-#titulo1
+#titulo
 def escolher_jogo():
 
     print("Escolha o seu Jogo!")
