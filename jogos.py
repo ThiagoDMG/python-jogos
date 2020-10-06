@@ -18,5 +18,3 @@ def escolher_jogo():
 
 if (__name__ == '__main__'):
     escolher_jogo()
-    
-#Task17
